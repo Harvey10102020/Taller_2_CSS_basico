@@ -42,6 +42,7 @@
                 border-radius: 10px;
                 border-color: white;
                 outline: none;
+                width: fit-content;
             }
             
             .btn:hover {
@@ -55,5 +56,5 @@
             }
             
             .container {
-                align: center;
+                margin-left: 100px;
             }
