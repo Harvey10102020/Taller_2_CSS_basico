@@ -32,4 +32,13 @@
     color: white;
     cursor: pointer;
     border-radius: 15px;
+    outline: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    align: center;
 }
